@@ -5,7 +5,7 @@
 ❊ The first thing on the page is a **hero image**. I chose this type of design because I think it suits the topic. <br />
 ❊ The design is responsive, and I have also included navigational buttons with little animations.
 
-✨ You can access the page here: https://terka-codes.github.io/Tribute-Page-Nelson-Mandela/
+✨ You can access the page [here](https://terka-codes.github.io/Tribute-Page-Nelson-Mandela/)
 
 ### 🖼 Screenshorts from the project:
 
