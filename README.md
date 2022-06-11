@@ -1,9 +1,9 @@
 # freeCodeCamp Tribute Page Project - Nelson Mandela 
 
-This was my **second project** since I started to learn how to code. I used **only HTML and CSS**, all without any frameworks and libraries. 
-My main **aim was** to build a pleasingly designed tribute page that could **challenge my skills**.
-The first thing on the page is a **hero image**. I chose this type of design because I think it suits the topic.
-The design is responsive, and I have also included navigational buttons with little animations.
+❊ This was my **second project** since I started to learn how to code. I used **only HTML and CSS**, all without any frameworks and libraries. <br />
+❊ My main **aim was** to build a pleasingly designed tribute page that could **challenge my skills**. <br />
+❊ The first thing on the page is a **hero image**. I chose this type of design because I think it suits the topic. <br />
+❊ The design is responsive, and I have also included navigational buttons with little animations.
 
 ✨ You can access the page here: https://terka-codes.github.io/Tribute-Page-Nelson-Mandela/
 
